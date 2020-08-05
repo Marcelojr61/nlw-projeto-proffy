@@ -52,3 +52,9 @@ textarea{
    font-size: 1.6rem;
     color: var(--color-text-base);
 }
+
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%;
+    }
+}
